@@ -56,7 +56,7 @@ education:
       Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
       text: 'Thesis Abstract'
-      url: 'https://theses.fr/s373218'
+      url: 'https://example.com/'
   - area: Master in Quantum and Distributed Computer Science
     institution: Paris-Saclay University
     date_start: 2021-09-01
