@@ -45,7 +45,7 @@ profiles:
 interests:
   - Quantum Computing
   - Quantum Walks
-  - Quantum Algorithms
+  - Optimization
 
 education:
   - area: PhD Quantum Computing
@@ -57,28 +57,30 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master Quantum and Distributed Computer Science
+    institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: Master degree in quantum computing, high-performance computing and distributed computing.
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Quantum Programming, Quantum Algorithms, Quantum Information
+      - GPU Programming, Parallel Programming, Advanced Algorithmic
+      - Optimization, Game Theory, Distributed Algorithms
+      - Complexity Theory, Graph Theory
+
   - area: BSc Computer Science
     institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: 
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Functional Programming, Data Structures, Algorithmic
+      - Machine Learning, C/Python/Java Programming, Logic
+        
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
