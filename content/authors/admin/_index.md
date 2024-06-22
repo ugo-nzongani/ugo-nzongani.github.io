@@ -57,17 +57,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Quantum and Distributed Computer Science
+    institution: Paris-Saclay University
+    date_start: 2021-09-01
+    date_end: 2023-07-01
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Quantum Programming, Quantum Algorithms, Quantum Information
+      - GPU Programming, Parallel Programming, Advanced Algorithmic
+      - Optimization, Game Theory, Distributed Algorithms
+      - Complexity Theory, Graph Theory
   - area: BSc Computer Science
     institution: Paris-Saclay University
     date_start: 2018-09-01
