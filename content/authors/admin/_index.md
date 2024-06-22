@@ -50,10 +50,10 @@ interests:
 education:
   - area: PhD Candidate in Quantum Computing
     institution: Aix-Marseille Université, ENSTA Paris
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    date_start: 2023-10-01
+    date_end: ''
+    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance
+      Supervised by [Prof. Giuseppe Di Molfetta](https://www.giuseppe-dimolfetta.com/) and [Prof. Andrea Simonetto](https://perso.ensta-paris.fr/~simonetto/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
