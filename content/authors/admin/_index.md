@@ -84,7 +84,7 @@ work:
     company_logo: ''
     date_start: 2023-03-01
     date_end: 2023-08-01
-    summary: Dirac quantum walk on tetrahedra.
+    summary: Dirac quantum walk on tetrahedra.<br>
       Supervised by Prof. Pablo Arrighi.
   - position: Research Intern
     company_name: Laboratoire de Méthodes Formelles - QuaCS
