@@ -80,20 +80,28 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Research Intern
-    company_name: Laboratoire de Méthodes Formelles - QuaCS
-    company_url: 'https://lmf.cnrs.fr/Research/Quant'
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2023-03-01
-    date_end: 2023-08-01
-    summary: Dirac quantum walk on tetrahedra, supervised by Prof. Pablo Arrighi.
-  - position: Research Intern
-    company_name: Laboratoire de Méthodes Formelles - QuaCS
-    company_url: 'https://lmf.cnrs.fr/Research/Quant'
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2022-05-01
-    date_end: 2022-07-01
-    summary: Quantum circuit for discrete-time quantum walks with position-dependent coin operator, supervised by Dr. Pablo Arnault
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
