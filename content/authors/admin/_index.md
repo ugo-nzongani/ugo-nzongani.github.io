@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: PhD Quantum Computing
-    institution: Aix-Marseille Universiité, ENSTA Paris
+    institution: Aix-Marseille Université, ENSTA Paris
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,7 +61,7 @@ education:
     institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: test
+    summary: |
       GPA: 3.8/4.0
 
       Courses included:
@@ -74,7 +74,7 @@ education:
     institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: 
+    summary: |
       GPA: 3.4/4.0
       
       Courses included:
