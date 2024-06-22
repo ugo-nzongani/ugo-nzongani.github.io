@@ -57,7 +57,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master Quantum and Distributed Computer Science
+  - area: Master in [Quantum and Distributed Computer Science](https://master-info-orsay.lri.fr/parcours_QDCS.html)
     institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
