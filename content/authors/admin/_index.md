@@ -50,31 +50,31 @@ interests:
 education:
   - area: PhD Candidate in Quantum Computing
     institution: Aix-Marseille Université, ENSTA Paris
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    date_start: 2023-10-01
+    date_end: ''
+    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance
+      Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Thesis abstract'
+      url: 'https://theses.fr/s373218'
   - area: Master in Quantum and Distributed Computer Science
     institution: Paris-Saclay University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2023-7-01
     summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Quantum Programming, Quantum Algorithms, Quantum Information
+      - GPU Programming, Parallel Programming, Advanced Algorithmic
+      - Optimization, Game Theory, Distributed Algorithms
+      - Complexity Theory, Graph Theory
   - area: BSc Computer Science
     institution: Paris-Saclay University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2021-07-01
     summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Functional Programming, Data Structures, Algorithmic
+      - Machine Learning, CPythonJava Programming, Logic
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
