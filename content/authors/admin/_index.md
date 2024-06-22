@@ -57,24 +57,28 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master in Quantum and Distributed Computer Science
-    institution: Paris-Saclay University
-    date_start: 2021-09-01
-    date_end: 2023-7-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
+      GPA: 3.8/4.0
+
       Courses included:
-      - Quantum Programming, Quantum Algorithms, Quantum Information
-      - GPU Programming, Parallel Programming, Advanced Algorithmic
-      - Optimization, Game Theory, Distributed Algorithms
-      - Complexity Theory, Graph Theory
-  - area: BSc Computer Science
-    institution: Paris-Saclay University
-    date_start: 2018-09-01
-    date_end: 2021-07-01
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
+      GPA: 3.4/4.0
+      
       Courses included:
-      - Functional Programming, Data Structures, Algorithmic
-      - Machine Learning, CPythonJava Programming, Logic
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
