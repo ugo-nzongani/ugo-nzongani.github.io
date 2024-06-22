@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: www.linkedin.com/in/ugo-nzongani
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?user=VB310fsAAAAJ&hl=fr&oi=ao)
+    url: https://scholar.google.com/citations?user=VB310fsAAAAJ&hl=fr&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/
 
