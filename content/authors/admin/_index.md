@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ugo-nzongani
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=fr&user=VB310fsAAAAJ
 
 interests:
   - Quantum Computing
