@@ -65,7 +65,7 @@ education:
 
       Courses included:
       - Quantum Programming, Quantum Algorithms, Quantum Information
-      - GPU Programming, Parallel Programming, Advanced Algorithmic
+      - GPU Programming, MPI Programming, Advanced Algorithmic
       - Optimization, Game Theory, Distributed Algorithms
       - Complexity Theory, Graph Theory
   - area: BSc Computer Science
@@ -131,12 +131,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
