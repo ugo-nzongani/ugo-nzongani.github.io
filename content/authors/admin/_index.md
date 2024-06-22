@@ -70,13 +70,13 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science
     institution: Paris-Saclay University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2021-07-01
     summary: |
       
       Courses included:
       - Functional Programming, Data Structures, Algorithmic
-      - Machine Learning, CPythonJava Programming, Logic
+      - Machine Learning, C-Python-Java-Assembly Programming, Logic
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
