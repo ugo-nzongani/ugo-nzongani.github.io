@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Ugo Nzongani
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -35,18 +35,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ugo.nzongani@lis-lab.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ugo-nzongani
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ugo-nzongani
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Quantum Computing
