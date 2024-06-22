@@ -26,8 +26,6 @@ role: PhD Student
 organizations:
   - name: Aix-Marseille Université
     url: https://openai.com/
-  - name: ENSTA Paris
-    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
