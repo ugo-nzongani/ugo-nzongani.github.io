@@ -85,9 +85,9 @@ work:
   - position: Research Intern
     company_name: QuACS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    company_logo: 'https://lmf.cnrs.fr/downloads/Research/quacs-logo-v2.svg'
+    date_start: 2022-05-01
+    date_end: 2022-07-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
