@@ -62,7 +62,6 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -72,7 +71,6 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
