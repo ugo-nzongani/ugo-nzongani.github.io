@@ -77,6 +77,7 @@ education:
       Courses included:
       - Functional Programming, Data Structures, Algorithmic
       - Machine Learning, C-Python-Java-Assembly Programming, Logic
+      - Linear algebra, Calculus, Classical Mechanics, Physical optics
 work:
   - position: Research Intern
     company_name: Laboratoire de Méthodes Formelles - QuaCS
@@ -92,7 +93,7 @@ work:
     company_logo: ''
     date_start: 2022-05-01
     date_end: 2022-07-01
-    summary: Quantum circuit for quantum walks with position-dependent coin operator.
+    summary: Quantum circuit for quantum walks with position-dependent coin operator.<br>
       Supervised by Dr. Pablo Arnault.
 
 # Skills
