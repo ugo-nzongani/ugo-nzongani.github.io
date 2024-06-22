@@ -61,7 +61,7 @@ education:
     institution: Paris-Saclay University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: Master degree in quantum computing, high performance computing and distributed computing.
+    summary: test
       GPA: 3.8/4.0
 
       Courses included:
