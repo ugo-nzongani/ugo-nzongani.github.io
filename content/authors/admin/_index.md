@@ -53,14 +53,14 @@ education:
     date_start: 2023-10-01
     date_end: ''
     summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance
-      Supervised by [Prof. Giuseppe Di Molfetta](https://www.giuseppe-dimolfetta.com/) and [Prof. Andrea Simonetto](https://perso.ensta-paris.fr/~simonetto/).
+      Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master in [Quantum and Distributed Computer Science](https://master-info-orsay.lri.fr/parcours_QDCS.html)
+  - area: Master in Quantum and Distributed Computer Science
     institution: Paris-Saclay University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2023-7-01
     summary: |
 
       Courses included:
@@ -71,8 +71,8 @@ education:
 
   - area: BSc Computer Science
     institution: Paris-Saclay University
-    date_start: 2023-03-01
-    date_end: 2023-08-01
+    date_start: 2018-09-01
+    date_end: 2021-07-01
     summary: |
       
       Courses included:
@@ -86,18 +86,14 @@ work:
     company_logo: ''
     date_start: 2022-05-01
     date_end: 2022-07-01
-    summary: Dirac quantum walk on tetrahedra, supervised by Prof. Pablo Arrighi
+    summary: Dirac quantum walk on tetrahedra, supervised by [Prof. Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi)
   - position: Research Intern
     company_name: Laboratoire de Méthodes Formelles - QuaCS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-03-01
+    date_end: 2023-08-01
+    summary: Quantum circuit for discrete-time quantum walks with position-dependent coin operator, supervised by Dr. Pablo Arnault
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
