@@ -48,15 +48,15 @@ interests:
   - Optimization
 
 education:
-  - area: PhD Candidate in Quantum Computing
-    institution: Aix-Marseille Université, ENSTA Paris
-    date_start: 2023-10-01
-    date_end: ''
-    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance
-      Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Thesis abstract'
-      url: 'https://theses.fr/s373218'
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: Master in Quantum and Distributed Computer Science
     institution: Paris-Saclay University
     date_start: 2021-09-01
