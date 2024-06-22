@@ -81,18 +81,14 @@ education:
         
 work:
   - position: Research Intern
-    company_name: QuACS
+    company_name: Laboratoire de Méthodes Formelles - QuaCS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
     date_start: 2022-05-01
     date_end: 2022-07-01
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: Dirac quantum walk on tetrahedra, supervised by Prof. Pablo Arrighi
   - position: Research Intern
-    company_name: QuACS
+    company_name: Laboratoire de Méthodes Formelles - QuaCS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
     date_start: 2016-01-01
