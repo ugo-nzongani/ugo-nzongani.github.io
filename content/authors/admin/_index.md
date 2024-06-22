@@ -48,7 +48,7 @@ interests:
   - Optimization
 
 education:
-  - area: PhD Quantum Computing
+  - area: PhD Candidate in Quantum Computing
     institution: Aix-Marseille Université, ENSTA Paris
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -82,9 +82,9 @@ education:
       - Machine Learning, CPythonJava Programming, Logic
         
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Intern
+    company_name: QuACS
+    company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
@@ -93,9 +93,9 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Research Intern
+    company_name: QuACS
+    company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -140,12 +140,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
