@@ -42,7 +42,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: www.linkedin.com/in/ugo-nzongani
+    url: https://www.linkedin.com/in/ugo-nzongani
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
