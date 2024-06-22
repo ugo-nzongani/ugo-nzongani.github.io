@@ -149,6 +149,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+<!--- 
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -176,7 +177,7 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
+ -->
 ## About Me
 
 Hi, I'm a first year PhD student in Quantum Computing. I'm cosupervised by Prof. <a href="https://www.giuseppe-dimolfetta.com/" target="_blank">Giuseppe Di Molfetta</a> (<a href="https://cana.lis-lab.fr/" target="_blank">CaNa Team</a>, <a href="https://www.lis-lab.fr/" target="_blank">LIS</a>, <a href="https://www.univ-amu.fr/" target="_blank">Aix-Marseille Université</a>) and Prof. <a href="https://perso.ensta-paris.fr/~simonetto/" target="_blank">Andrea Simonetto</a> (<a href="https://uma.ensta-paris.fr/research/oc.html" target="_blank">OC Team</a>, <a href="https://uma.ensta-paris.fr/" target="_blank">UMA</a>, <a href="https://www.ensta-paris.fr/" target="_blank">ENSTA Paris</a>). I'm affiliated to both establishments but you will find me most of the time at the TPR2 building on the <a href="https://sciences.univ-amu.fr/fr/sites-campus/marseille-site-luminy" target="_blank">Luminy</a> campus in Marseille. My main research interests are quantum walks, noisy quantum computation, quantum algorithms and optimization problems. My PhD research aims to understand the limitations and the conditions under which noise can be used to improve quantum computation using quantum-walked based circuits. In the bigger picture we aim to apply those results to help solving hard combinatorial optimization problems on quantum computers.
