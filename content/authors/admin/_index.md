@@ -52,8 +52,8 @@ education:
     institution: Aix-Marseille Université, ENSTA Paris
     date_start: 2023-10-01
     date_end: ''
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance.
+      Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
       text: 'Thesis abstract'
       url: 'https://theses.fr/s373218'
