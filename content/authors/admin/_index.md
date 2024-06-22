@@ -62,7 +62,6 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - Quantum Programming, Quantum Algorithms, Quantum Information
@@ -72,10 +71,9 @@ education:
 
   - area: BSc Computer Science
     institution: Paris-Saclay University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: 2023-08-01
     summary: |
-      GPA: 3.4/4.0
       
       Courses included:
       - Functional Programming, Data Structures, Algorithmic
