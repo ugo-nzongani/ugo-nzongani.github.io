@@ -55,8 +55,8 @@ education:
     summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance
       Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Thesis Abstract'
+      url: 'https://theses.fr/s373218'
   - area: Master in Quantum and Distributed Computer Science
     institution: Paris-Saclay University
     date_start: 2021-09-01
@@ -84,15 +84,15 @@ work:
     company_name: Laboratoire de Méthodes Formelles - QuaCS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
-    date_start: 2022-05-01
-    date_end: 2022-07-01
-    summary: Dirac quantum walk on tetrahedra, supervised by [Prof. Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi)
+    date_start: 2023-03-01
+    date_end: 2023-08-01
+    summary: Dirac quantum walk on tetrahedra, supervised by Prof. Pablo Arrighi.
   - position: Research Intern
     company_name: Laboratoire de Méthodes Formelles - QuaCS
     company_url: 'https://lmf.cnrs.fr/Research/Quant'
     company_logo: ''
-    date_start: 2023-03-01
-    date_end: 2023-08-01
+    date_start: 2022-05-01
+    date_end: 2022-07-01
     summary: Quantum circuit for discrete-time quantum walks with position-dependent coin operator, supervised by Dr. Pablo Arnault
 
 # Skills
@@ -120,7 +120,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Travelling
         description: ''
         percent: 100
         icon: cat
