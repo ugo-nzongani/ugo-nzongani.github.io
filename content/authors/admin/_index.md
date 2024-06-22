@@ -25,7 +25,9 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Aix-Marseille Université
-    url: https://openai.com/
+    url: https://www.univ-amu.fr/
+  - name: ENSTA Paris
+    url: https://www.ensta-paris.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
