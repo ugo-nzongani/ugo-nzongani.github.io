@@ -79,7 +79,7 @@ education:
       
       Courses included:
       - Functional Programming, Data Structures, Algorithmic
-      - Machine Learning, C/Python/Java Programming, Logic
+      - Machine Learning, CPythonJava Programming, Logic
         
 work:
   - position: Director of Cloud Infrastructure
