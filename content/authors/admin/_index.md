@@ -121,7 +121,7 @@ skills:
       - name: Travelling
         description: ''
         percent: 100
-        icon: paper-plane
+        icon: compass
       - name: Cinema & Video games
         description: ''
         percent: 80
