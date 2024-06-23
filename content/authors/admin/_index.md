@@ -121,11 +121,11 @@ skills:
       - name: Travelling
         description: ''
         percent: 100
-        icon: cat
+        icon: paper-plane
       - name: Cinema & Video games
         description: ''
         percent: 80
-        icon: camera
+        icon: film
 
 languages:
   - name: French
