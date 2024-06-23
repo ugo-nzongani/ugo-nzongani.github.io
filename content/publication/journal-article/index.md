@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Quantum Information Processing, 1*(1)"
 publication_short: ""
 
 abstract: test
@@ -34,7 +34,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://link.springer.com/article/10.1007/s11128-024-04400-2
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/ugo-nzongani/phd/tree/main/quantum_walks/coin_operators'
 url_dataset: ''
 url_poster: ''
 url_project: ''
