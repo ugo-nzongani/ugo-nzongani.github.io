@@ -59,6 +59,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: test.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
