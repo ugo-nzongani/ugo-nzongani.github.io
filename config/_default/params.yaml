@@ -38,6 +38,7 @@ header:
     favicon: false
     logo:
       text: "Ugo Nzongani"
+      filename: "icon.png"
       
 # Site footer
 footer:
