@@ -6,7 +6,7 @@ authors:
 - Carlo-Elia Doncecchi
 - Armando Pérez
 - Fabrice Debbasch
-- · Pablo Arnault
+- Pablo Arnault
 
 date: "2024-05-15T00:00:00Z"
 doi: " https://doi.org/10.1007/s11128-023-03957-8"
