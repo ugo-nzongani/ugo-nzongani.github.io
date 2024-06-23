@@ -38,17 +38,6 @@ sections:
         My main research interests are quantum walks, noisy quantum computation, quantum algorithms and optimization problems. My <a href="https://theses.fr/s373218" target="_blank">PhD research</a> aims to understand the limitations and the conditions under which noise can be used to improve quantum computation using quantum-walked based circuits. In the bigger picture we aim to apply those results to help solving hard combinatorial optimization problems on quantum computers. 
     design:
       columns: '1'
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: test.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
   - block: collection
     content:
       title: 'Recent Publications & Preprints'
@@ -59,17 +48,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: test.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
