@@ -1,5 +1,5 @@
 ---
-title: "Adjustable-depth quantum circuit for position-dependent coin operators of discrete-time quantum walks"
+title: ""
 authors:
 - admin
 - Pablo Arnault
