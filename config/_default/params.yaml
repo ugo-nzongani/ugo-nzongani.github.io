@@ -35,6 +35,7 @@ header:
     show_logo: true
     show_search: false
     show_theme_chooser: true
+    favicon: false
     logo:
       text: "Ugo Nzongani"
       
