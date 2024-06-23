@@ -40,7 +40,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Publications & Preprints
       text: ""
       filters:
         folders:
