@@ -46,6 +46,7 @@ interests:
   - Quantum Computing
   - Quantum Walks
   - Optimization
+  - Open Quantum Systems
 
 education:
   - area: PhD Candidate in Quantum Computing
@@ -68,7 +69,7 @@ education:
       - GPU Programming, MPI Programming, Advanced Algorithmic
       - Optimization, Game Theory, Distributed Algorithms
       - Complexity Theory, Graph Theory
-  - area: BSc Computer Science
+  - area: BSc in Computer Science
     institution: Paris-Saclay University
     date_start: 2018-09-01
     date_end: 2021-07-01
