@@ -36,6 +36,9 @@ header:
     show_theme_chooser: true
     logo:
       text: "Ugo Nzongani"
+      # Add the following line to explicitly disable the logo image
+      image: ""
+      # You can also completely remove the 'image' line if it's not needed
 
 # Site footer
 footer:
