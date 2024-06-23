@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-05-15T00:00:00Z"
 doi: "https://doi.org/10.1007/s11128-024-04400-2"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Quantum Information Processing, 1*(1)"
+publication: "*Quantum Information Processing, 23, 193*(2024)"
 publication_short: ""
 
 abstract: test
