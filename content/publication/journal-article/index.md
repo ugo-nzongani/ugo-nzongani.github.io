@@ -62,7 +62,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
+---
 title: "Adjustable-depth quantum circuit for position-dependent coin operators of discrete-time quantum walks"
 authors:
 - admin
@@ -105,5 +105,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 ---
