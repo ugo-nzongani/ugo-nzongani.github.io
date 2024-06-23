@@ -102,10 +102,10 @@ skills:
   - name: Technical Skills
     items:
       - name: Programming
-        description: 'C, C++, Java, Julia, Python, OCaml'
+        description: 'C, C++, Java, Julia, Python, OCaml, SQL, LaTeX, HTML, PHP'
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
