@@ -24,12 +24,12 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: calanques2.png
+          filename: waves.jpg
           filters:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: '📚 My Research 💻'
