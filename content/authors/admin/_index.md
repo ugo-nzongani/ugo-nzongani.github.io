@@ -53,7 +53,7 @@ education:
     institution: Aix-Marseille Université & ENSTA Paris
     date_start: 2023-10-01
     date_end: ''
-    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance.
+    summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance.<br>
       Supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto.
     button:
       text: 'Thesis abstract'
