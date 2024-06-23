@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Adjustable-depth quantum circuit for position-dependent coin operators of discrete-time quantum walks"
 authors:
 - admin
-- Robert Ford
+- Pablo Arnault
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s11128-024-04400-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Discrete-time quantum walks with position-dependent coin operators have numerous applications. For a position dependence that is sufficiently smooth, it has been provided in Nzongani et al. (Quantum circuits for discrete-time quantum walks with position-dependent coin operator, arXiv:2211.05271, 2022) an approximate quantum-circuit implementation of the coin operator that is efficient. If we want the quantum-circuit implementation to be exact (e.g., either, in the case of a smooth position dependence, to have a perfect precision, or in order to treat a non-smooth position dependence), but the depth of the circuit not to scale exponentially, then we can use the linear-depth circuit of the previous reference, which achieves a depth that is linear at the cost of introducing an exponential number of ancillas. In this paper, we provide an adjustable-depth quantum circuit for the exact implementation of the position-dependent coin operator. The lower the depth of the circuit is, the more we have to add ancillary qubits, so this adjustable-depth circuit we propose is the right tool for a good adaptation to the experimental platform: one will typically reduce the depth as much as the experimental platform can handle the added ancillary qubits that go with the reduction of the depth. This adjustable-depth circuit consists in (i) applying in parallel, with a linear-depth circuit, only certain operator-packs of coin operators (rather than all of them as in the original linear-depth circuit), each pack contributing linearly to the depth, and in (ii) applying sequentially these packs, which contributes exponentially to the depth. Hence, given an input position state, one has to wait the right operator-pack to apply the coin operator to the coin state of this position. The key technical point of this work, which is the main technical novelty with respect to the previous reference, is that the one-hot encoding of the ancillary positions at the beginning of each operator-pack is selective, that is, we perform this encoding only for certain positions (those whose internal state we want to apply the coin operator to).
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://link.springer.com/article/10.1007/s11128-024-04400-2
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
