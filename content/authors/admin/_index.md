@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: PhD Candidate in Quantum Computing
-    institution: Aix-Marseille Université, ENSTA Paris
+    institution: Aix-Marseille Université & ENSTA Paris
     date_start: 2023-10-01
     date_end: ''
     summary: Noisy-assisted quantum circuit, optimisation and fault-tolerance.
