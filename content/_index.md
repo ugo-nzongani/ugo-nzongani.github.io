@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My main research interests are quantum walks, noisy quantum computation, quantum algorithms and optimization problems. My <a href="https://theses.fr/s373218" target="_blank">PhD research</a> aims to understand the limitations and the conditions under which noise can be used to improve quantum computation using quantum-walked based circuits. In the bigger picture we aim to apply those results to help solving hard combinatorial optimization problems on quantum computers. 
     design:
       columns: '1'
   - block: collection
