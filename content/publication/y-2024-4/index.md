@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2404.09840
+url_pdf: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.042418
 url_code: ''
 url_dataset: ''
 url_poster: ''
