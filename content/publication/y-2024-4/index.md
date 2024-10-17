@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Dirac quantum walk on tetrahedra, *Phys. Rev. A 110, 042418* (2024)"
+publication: "Dirac quantum walk on tetrahedra, *Test* (2024)"
 publication_short: ""
 
 abstract: TODO
