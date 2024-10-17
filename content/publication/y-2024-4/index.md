@@ -8,7 +8,7 @@ authors:
 - Giuseppe Di Molfetta
 - Pablo Arrighi
 date: "2024-05-15T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevA.110.042418"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
