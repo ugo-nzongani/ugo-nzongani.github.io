@@ -5,8 +5,8 @@ authors:
 - admin
 - Andrea Simonetto
 - Fabrice Debbasch
-date: "2024-05-15T00:00:00Z"
-doi: ""
+date: "2025-02-19T00:00:00Z"
+doi: "https://doi.org/10.1145/3718348"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Efficient Quantum Circuits for Non-Unitary and Unitary Diagonal Operators with Space-Time-Accuracy trade-offs, *Arxiv version* (2024)"
+publication: "Efficient Quantum Circuits for Non-Unitary and Unitary Diagonal Operators with Space-Time-Accuracy trade-offs, *ACM Transactions on Quantum Computing* (2025)"
 publication_short: ""
 
 abstract: TODO
@@ -32,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2404.02819
-url_code: ''
+url_pdf: https://dl.acm.org/doi/10.1145/3718348
+url_code: 'https://github.com/ugo-nzongani/Quantum-circuits-for-non-unitary-and-unitary-diagonal-operators'
 url_dataset: ''
 url_poster: ''
 url_project: ''
