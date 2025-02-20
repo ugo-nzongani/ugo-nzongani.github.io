@@ -61,9 +61,9 @@ jobs:
         ls -lah ./public
     
     - name: Upload artifact for GitHub Pages
-      uses: actions/upload-pages-artifact@v2  # ✅ Correct action
+      uses: actions/upload-pages-artifact@v2
       with:
-        path: ./public  # ✅ Ensure this is correct
+        path: ./public  # Ensure this path is correct and points to the build directory
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -76,3 +76,5 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
+      with:
+        # No additional settings needed, action will deploy the content
