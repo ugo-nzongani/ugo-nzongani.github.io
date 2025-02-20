@@ -60,10 +60,10 @@ jobs:
         echo "Checking public directory..."
         ls -lah ./public
     
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2  # This is the correct upload action for GitHub Pages
+    - name: Upload artifact for GitHub Pages
+      uses: actions/upload-pages-artifact@v2  # ✅ Correct action
       with:
-        path: ./public
+        path: ./public  # ✅ Ensure this is correct
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -75,4 +75,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses:
