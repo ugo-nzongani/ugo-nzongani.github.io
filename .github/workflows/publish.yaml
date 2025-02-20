@@ -61,7 +61,7 @@ jobs:
         ls -lah ./public
     
     - name: Upload artifact for GitHub Pages
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./public  # Ensure this path is correct and points to the build directory
 
@@ -75,6 +75,6 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
       with:
         # No additional settings needed, action will deploy the content
