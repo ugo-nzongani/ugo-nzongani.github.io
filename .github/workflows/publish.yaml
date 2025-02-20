@@ -22,15 +22,17 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+    
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
+    
     - name: Cache Hugo modules
       uses: actions/cache@v4
       with:
@@ -38,26 +40,30 @@ jobs:
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
         restore-keys: |
           ${{ runner.os }}-hugomod-
-    - name: Setup Pages
+    
+    - name: Setup GitHub Pages
       id: pages
       uses: actions/configure-pages@v4
+    
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+    
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    
     - name: Debug build output
       run: |
         echo "Checking public directory..."
         ls -lah ./public
+    
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2  # Corrected version
+      uses: actions/upload-pages-artifact@v2  # This is the correct upload action for GitHub Pages
       with:
         path: ./public
-        name: github-pages  # Explicitly named artifact
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -70,5 +76,3 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
-      with:
-        artifact_name: github-pages  # Ensure correct artifact name
