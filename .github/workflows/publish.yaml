@@ -31,7 +31,8 @@ jobs:
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
-    - uses: actions/cache@v4  # Updated to v4
+    - name: Cache Hugo modules
+      uses: actions/cache@v4
       with:
         path: /tmp/hugo_cache_runner/
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -39,7 +40,7 @@ jobs:
           ${{ runner.os }}-hugomod-
     - name: Setup Pages
       id: pages
-      uses: actions/configure-pages@v4  # Updated to v4
+      uses: actions/configure-pages@v4
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
@@ -48,10 +49,15 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: Debug build output
+      run: |
+        echo "Checking public directory..."
+        ls -lah ./public
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v2  # Corrected version
       with:
-        path: ./public-${{ matrix.runs-on }}
+        path: ./public
+        name: github-pages  # Explicitly named artifact
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -64,3 +70,5 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
+      with:
+        artifact_name: github-pages  # Ensure correct artifact name
