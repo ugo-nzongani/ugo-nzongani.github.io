@@ -1,14 +1,12 @@
 ---
 title: ""
 authors:
+- Julien Zylberman
 - admin
-- Nathanaël Eon
-- Iván Márquez-Martín
-- Armando Pérez
-- Giuseppe Di Molfetta
-- Pablo Arrighi
-date: "2024-05-15T00:00:00Z"
-doi: "10.1103/PhysRevA.110.042418"
+- Andrea Simonetto
+- Fabrice Debbasch
+date: "2025-02-19T00:00:00Z"
+doi: "https://doi.org/10.1145/3718348"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Dirac quantum walk on tetrahedra, *Physical Review A, 110, 042418* (2024)"
+publication: "Efficient Quantum Circuits for Non-Unitary and Unitary Diagonal Operators with Space-Time-Accuracy Trade-Offs, *ACM Transactions on Quantum Computing,* (2025)"
 publication_short: ""
 
 abstract: TODO
@@ -34,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.042418
+url_pdf: https://dl.acm.org/doi/10.1145/3718348
 url_code: ''
 url_dataset: ''
 url_poster: ''
