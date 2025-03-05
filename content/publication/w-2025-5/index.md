@@ -1,12 +1,11 @@
 ---
 title: ""
 authors:
-- Julien Zylberman
 - admin
 - Andrea Simonetto
-- Fabrice Debbasch
-date: "2025-02-19T00:00:00Z"
-doi: "https://doi.org/10.1145/3718348"
+- Giuseppe Di Molfetta
+date: "2024-05-15T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Efficient Quantum Circuits for Non-Unitary and Unitary Diagonal Operators with Space-Time-Accuracy Trade-Offs, *ACM Transactions on Quantum Computing,* (2025)"
+publication: "Noisy-enhanced quantum search on complex networks, *Arxiv version* (2025)"
 publication_short: ""
 
 abstract: TODO
@@ -32,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dl.acm.org/doi/10.1145/3718348
+url_pdf: https://arxiv.org/abs/2503.01762
 url_code: ''
 url_dataset: ''
 url_poster: ''
