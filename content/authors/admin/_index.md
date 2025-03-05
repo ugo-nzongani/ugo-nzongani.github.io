@@ -49,7 +49,7 @@ interests:
   - Open Quantum Systems
 
 education:
-  - area: PhD Candidate in Quantum Computing
+  - area: PhD student in Quantum Computing
     institution: Aix-Marseille Université & ENSTA Paris
     date_start: 2023-10-01
     date_end: ''
