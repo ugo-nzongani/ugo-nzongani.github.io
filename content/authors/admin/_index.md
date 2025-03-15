@@ -45,7 +45,7 @@ profiles:
 interests:
   - Quantum Computing
   - Quantum Walks
-  - Optimization
+  - Combinatorial Optimization
   - Open Quantum Systems
 
 education:
