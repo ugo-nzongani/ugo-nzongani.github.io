@@ -48,6 +48,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+   - block: collection
+    content:
+      title: 'Talks'
+      text: ""
+      filters:
+        folders:
+          - talks
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
