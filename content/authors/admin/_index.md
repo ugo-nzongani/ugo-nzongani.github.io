@@ -26,7 +26,7 @@ role: PhD Student
 organizations:
   - name: Aix-Marseille Université
     url: https://www.univ-amu.fr/
-  - name: ENSTA Paris, Institut Polytechnique de Paris
+  - name: ENSTA, Institut Polytechnique de Paris
     url: https://www.ensta-paris.fr/
 
 # Social network links
