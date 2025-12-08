@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Non-unitary enhanced transfer efficiency in quantum walk search on complex networks, *Arxiv version* (2025)"
+publication: "Non-unitary enhanced transfer efficiency in quantum walk search on complex networks, *Physical Review A*, 112, 052451 (2025)"
 publication_short: ""
 
 abstract: TODO
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2503.01762v2
+url_pdf: https://journals.aps.org/pra/abstract/10.1103/jhbs-27mm
 url_code: ''
 url_dataset: ''
 url_poster: ''
