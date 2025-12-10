@@ -33,7 +33,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/2509.15138
-url_code: https://github.com/ugo-nzongani/SamBa-GQW
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
