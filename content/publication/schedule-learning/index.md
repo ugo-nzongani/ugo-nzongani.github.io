@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits, *Arxiv version*"
+publication: "Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits, *Arxiv version* (2026)"
 publication_short: ""
 
 abstract: TODO
