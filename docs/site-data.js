@@ -5,13 +5,13 @@
 window.SITE = {
   "profile": {
     "name": "Ugo Nzongani",
-    "title": "PhD Candidate in Quantum Computing",
+    "title": "PhD student in Quantum Computing",
     "brand": "un",
     "affiliations": [
-      "LIS · Aix-Marseille University",
-      "ENSTA Paris"
+      "LIS · Aix-Marseille Université",
+      "ENSTA, Institut Polytechnique de Paris"
     ],
-    "photo": "assets/profile.svg",
+    "photo": "assets/photo.jpg",
     "cv": "uploads/resume.pdf",
     "socialLinks": [
       {
@@ -43,10 +43,10 @@ window.SITE = {
     {
       "period": "2023 — Present",
       "degree": "PhD in Quantum Computing",
-      "institution": "Aix-Marseille University & ENSTA Paris",
+      "institution": "Aix-Marseille Université & ENSTA, Institut Polytechnique de Paris",
       "details": [
         "Quantum walks and combinatorial optimization.",
-        "Supervisors: Giuseppe Di Molfetta and Andrea Simonetto."
+        "Supervisors: Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto."
       ]
     },
     {
