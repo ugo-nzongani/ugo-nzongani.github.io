@@ -5,11 +5,11 @@
 window.SITE = {
   "profile": {
     "name": "Ugo Nzongani",
-    "title": "PhD student in Quantum Computing",
+    "title": "PhD student in Quantum computing",
     "brand": "un",
     "affiliations": [
       "LIS · Aix-Marseille Université",
-      "ENSTA, Institut Polytechnique de Paris"
+      "UMA · ENSTA, Institut Polytechnique de Paris"
     ],
     "photo": "assets/photo.jpg",
     "cv": "uploads/resume.pdf",
@@ -45,14 +45,14 @@ window.SITE = {
       "degree": "PhD in Quantum Computing",
       "institution": "Aix-Marseille Université & ENSTA, Institut Polytechnique de Paris",
       "details": [
-        "Quantum walks and combinatorial optimization.",
+        "Engineering quantum simulations and optimization algorithms with quantum walks.",
         "Supervisors: Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto."
       ]
     },
     {
       "period": "2021 — 2023",
       "degree": "MSc in Quantum and Distributed Computer Science",
-      "institution": "Paris-Saclay University",
+      "institution": "Paris-Saclay Université",
       "details": [
         "Quantum and distributed computing."
       ]
@@ -60,7 +60,7 @@ window.SITE = {
     {
       "period": "2018 — 2021",
       "degree": "BSc in Computer Science",
-      "institution": "Paris-Saclay University",
+      "institution": "Paris-Saclay Université",
       "details": []
     }
   ],
@@ -84,10 +84,6 @@ window.SITE = {
           "url": "https://doi.org/10.22331/q-2026-10-13-2234"
         },
         {
-          "label": "arXiv",
-          "url": "https://arxiv.org/abs/2509.15138"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/ugo-nzongani/SamBa-GQW"
         }
@@ -109,10 +105,6 @@ window.SITE = {
         {
           "label": "Article",
           "url": "https://doi.org/10.1109/qCCL70331.2026.11668574"
-        },
-        {
-          "label": "arXiv",
-          "url": "https://arxiv.org/abs/2602.14986"
         }
       ]
     },
