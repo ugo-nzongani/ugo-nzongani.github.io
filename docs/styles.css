@@ -50,7 +50,7 @@
   @media(pointer:coarse) { #researcher-page .op-motion { min-height:44px; } }
   #researcher-page .op-section { margin:0 52px; border-top:1px solid var(--op-rule); }
   #researcher-page .op-about { padding:32px 0; }
-  #researcher-page .op-about-copy { max-width:76ch; }
+  #researcher-page .op-about-copy { max-width:none; }
 
   #researcher-page .op-about-copy p { color:var(--op-sub); font-size:13px; line-height:1.85; }
   #researcher-page .op-inline-link { display:inline-flex; gap:12px; align-items:center; font-size:12px; padding-top:13px; }
@@ -107,7 +107,8 @@ body[data-theme="light"] { background:#ffffff; }
 button,a { -webkit-tap-highlight-color:transparent; }
 a,button { cursor:pointer; }
 button:disabled { cursor:default; }
-#researcher-page { max-width:1200px; margin-inline:auto; }
+/* Let the page and wave fill the viewport; sections keep their own text spacing. */
+#researcher-page { width:100%; max-width:none; margin:0; }
 #researcher-page .icon { display:inline-block; width:16px; height:16px; flex-shrink:0; vertical-align:middle; background:currentColor; mask-image:var(--icon-url); mask-position:center; mask-repeat:no-repeat; mask-size:contain; -webkit-mask-image:var(--icon-url); -webkit-mask-position:center; -webkit-mask-repeat:no-repeat; -webkit-mask-size:contain; }
 #researcher-page .op-portrait { overflow:hidden; }
 #researcher-page .op-portrait-initials { color:var(--op-accent); font-size:40px; font-weight:400; letter-spacing:-2px; }
