@@ -37,7 +37,7 @@ window.SITE = {
     ]
   },
   "researchInterests": [
-    "My research focus on quantum algorithms for combinatorial optimization, quantum walks and the design of efficient quantum circuits."
+    "I am a PhD student in quantum computing supervised by Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto. My research focuses on quantum algorithms for combinatorial optimization, quantum walks and the design of efficient quantum circuits."
   ],
   "education": [
     {
