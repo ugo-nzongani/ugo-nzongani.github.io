@@ -5,11 +5,11 @@
 window.SITE = {
   "profile": {
     "name": "Ugo Nzongani",
-    "title": "PhD student in Quantum computing",
+    "title": "PhD student in quantum computing",
     "brand": "un",
     "affiliations": [
-      "LIS · Aix-Marseille Université",
-      "UMA · ENSTA, Institut Polytechnique de Paris"
+      "Laboratoire d'Informatique et des Systèmes · Aix-Marseille Université",
+      "Unité de Mathématiques Appliquées · ENSTA, Institut Polytechnique de Paris"
     ],
     "photo": "assets/photo.jpg",
     "cv": "uploads/resume.pdf",
@@ -37,7 +37,7 @@ window.SITE = {
     ]
   },
   "researchInterests": [
-    "I design quantum algorithms for simulation and combinatorial optimization. My research explores quantum walks, variational approaches, and their implementation as quantum circuits."
+    "My research focus on quantum algorithms for combinatorial optimization, quantum walks and the design of efficient quantum circuits."
   ],
   "education": [
     {
