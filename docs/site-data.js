@@ -6,7 +6,7 @@ window.SITE = {
   "profile": {
     "name": "Ugo Nzongani",
     "title": "PhD student in quantum computing",
-    "brand": "un",
+    "brand": "|un⟩",
     "affiliations": [
       "Laboratoire d'Informatique et des Systèmes · Aix-Marseille Université",
       "Unité de Mathématiques Appliquées · ENSTA, Institut Polytechnique de Paris"
