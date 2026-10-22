@@ -61,7 +61,7 @@ window.SITE = {
       "period": "2018 — 2021",
       "degree": "BSc in Computer Science",
       "institution": "Paris-Saclay Université",
-      "details": ["Programming,Algorithmics, Machine Learning, Logic"]
+      "details": ["Programming, Algorithmics, Machine Learning, Logic"]
     }
   ],
   "publications": [
