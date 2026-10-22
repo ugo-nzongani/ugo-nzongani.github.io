@@ -45,7 +45,7 @@ window.SITE = {
       "degree": "PhD in Quantum Computing",
       "institution": "Aix-Marseille Université & ENSTA, Institut Polytechnique de Paris",
       "details": [
-        "Engineering quantum simulations and optimization algorithms with quantum walks.",
+        "Subject: Engineering quantum simulations and optimization algorithms with quantum walks.",
         "Supervisors: Prof. Giuseppe Di Molfetta and Prof. Andrea Simonetto."
       ]
     },
@@ -54,14 +54,14 @@ window.SITE = {
       "degree": "MSc in Quantum and Distributed Computer Science",
       "institution": "Paris-Saclay Université",
       "details": [
-        "Quantum and distributed computing."
+        "Quantum computing, GPU-programming, distributed computing."
       ]
     },
     {
       "period": "2018 — 2021",
       "degree": "BSc in Computer Science",
       "institution": "Paris-Saclay Université",
-      "details": []
+      "details": ["Programming,Algorithmics, Machine Learning, Logic"]
     }
   ],
   "publications": [
